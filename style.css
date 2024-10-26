@@ -1,0 +1,65 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 10px;
+    padding: 0;
+    line-height: 1.6;
+    background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjx8l0FlOgjG6lWkXgM9QQoHyI_-9du6Whnw&s);/
+  }
+  
+  /* Style for H1 */
+  h1 {
+    text-align: center;
+    color: #333;
+  }
+  
+  /* Style for Profile Image */
+  img {
+    display: block;
+    margin: 20px auto;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+  }
+  
+  /* Style for Intro Paragraph */
+  p {
+    color: #555;
+  }
+  
+  /* Style for H2 Headings */
+  h2 {
+    color: #007fff; 
+    border-bottom: 5px solid #007fff; 
+    padding-bottom: 2px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    font-weight: bold;
+  }
+  
+  /* Style for Unordered Lists */
+  ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0px 0px;
+  }
+  
+  /* Style for List Items */
+  ul li {
+    color: #333;
+    margin-bottom: 8px;
+  }
+  
+  /* Style for Contact Information */
+  .contact {
+    text-align: center;
+    font-size: 1em;
+    color: #555;
+    margin-top: 20px;
+  }
+  
